@@ -1,0 +1,6 @@
+.env
+canyon.db
+canyon_backup*.db
+*.pyc
+__pycache__/
+bot_backup*.py
